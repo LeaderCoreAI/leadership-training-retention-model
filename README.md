@@ -4,8 +4,6 @@ An interactive, research-grounded model comparing leadership skill retention acr
 
 **[Try the live interactive model →](https://leadercore.ai/leadership-training-retention)**
 
-![Leadership Training Retention Curves](screenshot.png)
-
 ---
 
 ## What this is
